@@ -46,7 +46,7 @@ export default function Page() {
 
     </AlertDialog>
 
-      <Button onClick={() => setDialogOpen(true)}>Open Dialog Manual</Button>
+    <Button onClick={() => setDialogOpen(true)}>Open Dialog Manual</Button>
     </div>
   );
 }
